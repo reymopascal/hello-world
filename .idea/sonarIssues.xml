@@ -13,6 +13,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ansible/ansible-dynamic-inventory/get_inventory.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ansible/ansible-dynamic-inventory/playbook.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ansible/ansible-postgresql/playbook.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ansible/awx-15.0.1/INSTALL.md">
           <value>
             <set />
@@ -128,12 +143,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/ansible_facts_using_when.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/docker_example.yml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/filter_plugins/my_filters.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/inventory">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/inventory_children">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/loops.yml">
           <value>
             <set />
           </value>
