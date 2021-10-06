@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/2d7559ec-3e47-436f-ace6-b1cab698d47a/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ansible/ansible-dynamic-inventory/README.md">
           <value>
             <set />
@@ -123,6 +128,46 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../docker/docker-aston-poec/lab-prometheus-reverse-proxy/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../docker/docker-aston-poec/lab-prometheus-reverse-proxy/prometheus.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/PGLOADER.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/convert_words.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/sql/todos.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/words.ctl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitlab/todo-flask-postgres/words.dat">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/README.md">
           <value>
             <set />
@@ -138,6 +183,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/networking/web-server.go">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/LES_PLAYBOOKS.md">
           <value>
             <set />
@@ -149,6 +199,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/ansible_facts_using_when.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/docker-compose_vs_playbook/albatec.role/tasks/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/docker-compose_vs_playbook/albatec.role/vars/main.yml">
           <value>
             <set />
           </value>
