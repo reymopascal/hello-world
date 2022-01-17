@@ -38,6 +38,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../conference-application/jenkinsfiles_example">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../conference-application/run-conference-app.yml">
           <value>
             <set />
@@ -59,6 +64,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/hello-world-full-pipeline">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helm/Chart.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helm/templates/namespace.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/helm/templates/pr-devops-helloworld.yaml">
           <value>
             <set />
           </value>
@@ -93,6 +113,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../jenkins-pic/MONITORING.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../jenkins-pic/PIPELINE_GUI.md">
           <value>
             <set />
@@ -108,6 +133,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../jenkins-pic/SLAVE.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jenkins-pic/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../jenkins-pic/inventory_for_ubuntu">
           <value>
             <set />
@@ -119,6 +154,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../spring-framework-petclinic/src/main/webapp/WEB-INF/jsp/welcome.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../docker/docker-aston-poec/UBUNTU.md">
           <value>
             <set />
           </value>
@@ -184,6 +224,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/networking/web-server.go">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prometheus/prometheus-grafana/GRAFANA.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../prometheus/prometheus-grafana/lab-prometheus/prometheus.yml">
           <value>
             <set />
           </value>

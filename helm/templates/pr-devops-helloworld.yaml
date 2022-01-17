@@ -1,0 +1,30 @@
+---
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  finalizers:
+  - resources-finalizer.argocd.argoproj.io
+  name: "pr-devops-helloworld"
+  namespace: argocd
+spec:
+  destination:
+    namespace: "pr-devops-hellowolrd"
+    server: https://kubernetes.default.svc
+  project: helloworld
+  source:
+    helm:
+      values: |
+        image:
+          tag: "2.9.9"
+        ingress:  
+          host: "pr-devops-toolkit-1888.xip.io"
+      version: v3
+    path: helm
+    repoURL: "https://github.com/system-dev-formations/devops-toolkit.git"
+    targetRevision: HEAD
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+    syncOptions:
+    - CreateNamespace=true
