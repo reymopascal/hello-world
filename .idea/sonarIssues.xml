@@ -148,6 +148,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../jenkins-pic/jenkins/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../spring-framework-petclinic/petclinic_test_plan.jmx">
           <value>
             <set />
