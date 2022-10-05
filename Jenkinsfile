@@ -64,13 +64,12 @@ pipeline {
         }
         stage (' save image docker hub') {
             steps {
-                withCredentials([usernamePassword(credentialsId: '693c0bfd-aa3b-490e-9007-ed259e9f3862', passwordVariable: 'PASSWORD', usernameVariable: 'USER')]) {
+                    withCredentials([usernamePassword(credentialsId: '693c0bfd-aa3b-490e-9007-ed259e9f3862', passwordVariable: 'PASSWORD', usernameVariable: 'USER')]) {
                    script {
-                        def set_dockerhub = sh (script: ... docker login -u $USER -p $PASSWORD
+                        def set_dockerhub = sh (script: ''' docker login -u $USER -p $PASSWORD
                                                             docker image tag hello-world-afip $USER/hello-world-afip
                                                             docker push $USER/hello-world-afip
-                                                        ...)
-                        }
+                                                        ''')
                    }
                 }
             }
