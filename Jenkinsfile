@@ -53,7 +53,11 @@ pipeline {
             }
         }
         stage('install docker in remote') {
-            ansibleTower jobTemplate: 'install-docker', jobType: 'run', throwExceptionWhenFail: false, towerCredentialsId: 'awx', towerLogLevel: 'full', towerServer: 'awx'
+            steps {
+                     script {
+                        ansibleTower jobTemplate: 'install-docker', jobType: 'run', throwExceptionWhenFail: false, towerCredentialsId: 'awx', towerLogLevel: 'full', towerServer: 'awx'
+                     }
+            }
         }
     }
 }
