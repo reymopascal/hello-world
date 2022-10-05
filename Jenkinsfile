@@ -4,6 +4,9 @@ pipeline {
     tools {
         maven "Maven 3.6.3"
     }
+    options {
+        ansiColor ('xterm')
+    }
     stages {
         stage('Hello-world Maven') {
             steps {
