@@ -42,7 +42,7 @@ pipeline {
                                                    if [ -n "$OLD" ]; then
                                                     docker rm -f $OLD
                                                    fi
-                                                   docker run -d --name hello-world-test -p 8090:8080 hello-world-afip
+                                                   docker run -d --name hello-world-test -p 18090:8080 hello-world-afip
                                             ''')
                 }
             }
